@@ -1,7 +1,7 @@
 # Judicial Authorship attribution and Influence Detection
 Judicial authorship attribution prediction based on opinion texts from the american court
 
-##This folder contains:
+## This folder contains:
 - the final draft for 'Judicial Authorship attribution and Influence Detection'
 - Directories 85 - 97 for each circuit court (*) which each contains:
 	- IPython notebook with replication code
