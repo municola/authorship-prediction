@@ -1,4 +1,4 @@
-# Judicial Authorship attribution and Influence Detection [[PDF](https://github.com/municola/authorship-prediction/blob/master/Judicial%20Authorship%20attribution%20and%20Influence%20Detection.pdf)]
+# Judicial Authorship attribution and Influence Detection (2020) [[PDF](https://github.com/municola/authorship-prediction/blob/master/Judicial%20Authorship%20attribution%20and%20Influence%20Detection.pdf)]
 
 ## Task
 We try to solve two research questions:
